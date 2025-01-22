@@ -1,0 +1,24 @@
+﻿sample_id,Sample ID
+species,Species
+cat_id,Cat ID (If applicable)
+sex,Sex
+location,Location
+lat ,Latitude
+lon ,Longitude
+death_date,Date of death
+data_date,Date Collected
+death_cause,Cause of Death
+brod_ppm,Brodifacoum (ppm)
+brom_ppm,Bromadiolone (ppm)
+chlor_ppm,Chlorophacinone
+dic_ppm,Dicoumarol (ppm)
+difen_ppm,Difenacoum (ppm)
+difet_ppm,Difethialone (ppm)
+dipha_ppm,Diphacinone (ppm)
+warf_ppm,Warfarin
+total_notdetected,Number of Not Detected
+total_detected,Number of Compounds detected
+total_trace,"Number of Compounds ""trace"""
+total_above_trace,"Number of Compounds above ""trace"""
+binary_notdetected,Binary not detected
+binary_belowtrace,"Binary - below ""trace"""

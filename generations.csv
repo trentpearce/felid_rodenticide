@@ -1,0 +1,9 @@
+﻿gen,compound,number_livers,det_min,det_max
+First Generation Rodenticides,Chlorophacinone,0,0,0
+First Generation Rodenticides,Dicoumarol,8,0.001,0.022
+First Generation Rodenticides,Diphacinone,10,0.003,0.126
+First Generation Rodenticides,Warfarin,0,0,0
+Second Generation Rodenticides,Brodifacoum,10,0.001,0.01
+Second Generation Rodenticides,Bromadiolone,9,0.005,0.357
+Second Generation Rodenticides,Difenacoum,0,0,0
+Second Generation Rodenticides,Difethialone,4,0.002,0.008

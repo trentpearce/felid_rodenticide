@@ -1,0 +1,29 @@
+﻿sample_id,species,cat_id,sex,location,lat ,lon ,death_date,data_date,death_cause,brod_ppm,brom_ppm,chlor_ppm,dic_ppm,difen_ppm,difet_ppm,dipha_ppm,warf_ppm,total_notdetected,total_detected,total_trace,total_above_trace,binary_notdetected,binary_belowtrace
+1L2022,Puma concolor,Georgia,F,matlock,47.2424214,-123.3824314,44857,44858,poached,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+2L2022,Puma concolor,Rue,F,Hwy 3,47.242143,-123.05069,44783,44784,vehicle collision,not detected,not detected,not detected,0.004,not detected,not detected,not detected,not detected,7,1,0,1,0,0
+3L2022,Puma concolor,Marshall,M,Humptulips,47.23164,-123.91359,44747,44747,state removal,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+4L2022,Puma concolor,uncollared,unk,"black creek, montesano",47.0534,-123.6517,44715,44721,state removal,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+5L2022,Puma concolor,Medusa,F,Quinault fish hatchery,47.359897,-123.992576,44801,44802,tribal removal,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+6L2022,Puma concolor,uncollared,unk,hoquiam,46.99285,-123.89367,44700,44701,state removal,not detected,not detected,not detected,not detected,not detected,not detected,0.024,not detected,7,1,0,1,0,0
+7L2021,Puma concolor,Lilu,F,Solduc river,48.0407,-124.0903,44559,44559,intraspecific killing,not detected,0.035,not detected,not detected,not detected,not detected,not detected,not detected,7,1,0,1,0,0
+8L2022,Puma concolor,Moxie,M,Joyce,48.138435,-123.755505,44676,44676,Shot by livestock owner,trace,0.079,not detected,not detected,not detected,not detected,0.126,not detected,5,3,1,2,0,0
+9L2022,Puma concolor,Moses,M,Joyce,48.10586,-123.58778,44808,44808,state removal,trace,not detected,not detected,not detected,not detected,not detected,not detected,not detected,7,1,1,0,0,1
+10L2021,Puma concolor,Gypsy,F,Pysht,48.18811,-124.18225,44714,44714,unknown,0.001,not detected,not detected,not detected,not detected,0.002,not detected,not detected,6,2,0,2,0,0
+11L2021,Puma concolor,Uma,F,Blyn,48.02381,-123.01744,44344,44346,unknown illness,0.008,0.022,not detected,not detected,not detected,not detected,0.061,not detected,5,3,0,3,0,0
+12L2021,Puma concolor,Michelle,F,Lake Cushman,47.45321,-123.20653,44336,44336,state removal,0.005,0.357,not detected,not detected,not detected,0.008,0.031,not detected,4,4,0,4,0,0
+13L2022,Puma concolor,uncollared,M,Blue Mounatin rd,48.05192,-123.27574,44798,44798,state removal,not detected,not detected,not detected,0.003,not detected,0.003,0.003,not detected,5,3,0,3,0,0
+14L2021,Puma concolor,uncollared,M,port Ludlow,47.94489,-122.72066,44487,44488,legal harvest ,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+15L2021,Puma concolor,Quicep,M,obrien rd,48.06767,-123.30052,44278,44280,state removal,0.001,not detected,not detected,not detected,not detected,not detected,0.018,not detected,6,2,0,2,0,0
+16L2022,Lynx rufus,uncollared,?,joyce,48.13035,-123.79271,44637,44638,euthanized due to broken front legs from gunshot,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+17L2021,Lynx rufus,Brakken,M,joyce,48.110296,-123.813468,44305,44314,predation,0.01,0.061,not detected,not detected,not detected,not detected,not detected,not detected,6,2,0,2,0,0
+18L2022,Puma concolor,uncollared,unk,Wynooche Valley Rd,47.13003,-123.648599,44706,44706,state removal,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+19L2022,Puma concolor,uncollared,unk,Cedarville,46.8558,-123.337,44918,44918,state removal,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+20L2022,Puma concolor,uncollared,M,Wynooche Valley Rd,47.05792,-123.65382,44644,44644,state removal,trace,0.005,not detected,0.004,not detected,not detected,not detected,not detected,5,3,1,2,0,0
+21L2022,Puma concolor,Taryn,F,Wilkie Ln,47.0602,-123.6222,44612,44612,state removal,not detected,not detected,not detected,trace,not detected,not detected,not detected,not detected,7,1,1,0,0,1
+22L2022,Puma concolor,uncollared,F,N of Schafer SP,47.10816,-123.4737,,,state removal,not detected,trace,not detected,0.008,not detected,not detected,0.056,not detected,5,3,1,2,0,0
+23L2022,Puma concolor,uncollared,unk,N of Schafer SP,47.10816,-123.4737,,,state removal,not detected,not detected,not detected,0.022,not detected,not detected,trace,not detected,6,2,1,1,0,0
+24L2022,Puma concolor,Domino,M,Chimacum,48.01491,-122.76483,44881,44883,state removal,0.004,0.025,not detected,0.007,not detected,trace,0.019,not detected,3,5,1,4,0,0
+25L2022,Puma concolor,Damir,M,Makah reservation,48.27233,-124.62951,44644,44644,intraspecific killing,not detected,not detected,not detected,0.001,not detected,not detected,not detected,not detected,7,1,0,1,0,0
+26L2022,Lynx rufus,uncollared,F,dickey unit 602,48.06949,,44821,44821,harvest,not detected,not detected,not detected,trace,not detected,not detected,not detected,not detected,7,1,1,0,0,1
+27L2023,Lynx rufus,uncollared,unk,gmu 621,47.99049,-122.9735,44937,44937,harvest,not detected,not detected,not detected,not detected,not detected,not detected,not detected,not detected,8,0,0,0,1,1
+28L2022,Puma concolor,uncollared,M,Chimacum,48.01498,-122.76613,44676,44676,state removal,trace,0.088,not detected,not detected,not detected,not detected,0.096,not detected,5,3,1,2,0,0
